@@ -1,20 +1,16 @@
-# --- keep control files at repo root ---
-!.gitignore
-!README.md
-!LICENSE
-!LICENSE-docs.md
-!index.html
-
-
 # --- ignore everything at repo root by default ---
 /*
 
-# --- but keep this directory (and thus its contents) ---
-!documents/
+# --- but keep these specific files at the root ---
+!.gitignore
+!/README.md
+!/LICENSE
+!/LICENSE-docs.md
+!/index.html
 
-# (optional) if you want to be explicit inside the allowed dir:
-# !documents/**
-# You generally don't need the line above once the dir is un-ignored.
+# --- keep this directory and all its contents ---
+!/documents/
+!/documents/**
 
-# --- common niceties anywhere ---
+# --- ignore macOS junk files anywhere ---
 **/.DS_Store
