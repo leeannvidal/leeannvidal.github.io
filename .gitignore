@@ -11,6 +11,10 @@
 # --- keep this directory and all its contents ---
 !/documents/
 !/documents/**
+!/Portfolio/
+!/Portfolio/**
+!/Publications/
+!/Publications/**
 
 # --- ignore macOS junk files anywhere ---
 **/.DS_Store
