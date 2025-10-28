@@ -10,7 +10,7 @@ This repo hosts public files I link on my website, CV, and/or Resume.
 
 ## Structure
 ```text
-├── code/             # small code snippets/utilities referenced on the site
+├── code/             # small code snippets/utilities
 ├── documents/        # Files linked on website, CV and/or Resume
 │   ├── Conferences/  # Files related to conferences I've attended
 │   ├── CV_Resume/    # Academic CV and Non-Academic Resume
