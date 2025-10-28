@@ -4,43 +4,44 @@
 [![Docs: CC BY-NC-SA 4.0](https://img.shields.io/badge/Docs-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 ![Last Updated](https://img.shields.io/github/last-commit/leeannvidal/website-resources)
 
-Public files I link on my website, CV, and/or Resume.
 
 > **Licensing:** Code → [MIT](LICENSE). Docs → [CC BY-NC-SA 4.0](LICENSE-docs.md).
 
+This repo hosts public files I link on my website, CV, and/or Resume.
 
-Public files I link from my site:
-- `documents/` – PDFs and docs (survey instruments, manuals, slides)
-  -`Conferences/` – Files related to conferences I've attended
-  -`CV_Resume/` – Academic CV and Non-Academic Resume
-  -`Diplomas/` – Certified Electronic Diplomas for BU degrees
-  -`Portfolio/` – Files linked on the Portfolio page
-  -`Publications/` – Publications with broken DOI links or that are behind paywalls.
-  
+## Structure
+```text
+├── documents/                           # Files linked on website, CV and/or Resume
+│   ├── Conferences/            # Files related to conferences I've attended
+│   ├── CV_Resume/            # Academic CV and Non-Academic Resume
+│   ├── Diplomas/           # Certified Electronic Diplomas for BU degrees
+│   ├── Portfolio/                        # Files linked on the Portfolio page
+│   ├── Publications/                 # Publications with broken DOI links or that are behind paywalls
+```  
 ---
 
 ## Contents
 
-#### Documents
+### Documents
 
-##### Conferences
-###### Certificates
+#### Conferences
+##### Certificates
 Certificates from Conferences
 - **IDEOLING 2024 - Proof of presentation**
-###### Posters
+##### Posters
 - **LSA 2023 - Poster**
-###### Programs
+##### Programs
 Programs from conferences I've presented at. Presentation is highlighted on the program. (Not all are here, as I thought to save these as proof later in my career)
 - **IDEOLING**
 - **NWAV 52**
 - **LSA 2024**
 - **NWAV 51**
 
-##### CV_Resume
+#### CV_Resume
 - **Vidal Covas Academic CV**
 - **Vidal Covas Non-Academic Resume**
 
-##### Portfolio
+#### Portfolio
 - **Spanish SV/VS Survey Instrument (2021→2023)**  
   Project Breakdown + full survey instrument. Spanish = actual materials; English = reference translation.  
   **View:** `Portfolio/Vidal-Covas_Quantitative_Research_Spanish_Word_Order.pdf`  
@@ -50,7 +51,7 @@ Programs from conferences I've presented at. Presentation is highlighted on the 
   Step-by-step guidelines for annotating Spanish liquid consonants (/ɾ/, /r/, /l/) in interviews. Includes operational definitions, decision rules, edge-case examples, and QA checks. Originally developed for Lee-Ann Vidal-Covas’s dissertation within BU’s Spanish in Boston Project.
   **View:** `Portfolio/Vidal_Covas_Liquids_Coding_Manual.pdf`
 
-##### Publications
+#### Publications
 These are some of my publications that are either hidden behind a paywall or whose DOI links are broken for some reason.
 
 - **2024 Erker, Daniel G. & Vidal-Covas, Lee-Ann M.** Variation, Contact, and Change in Boston Spanish: How social meaning shapes stylistic practice and bilingual optimization. Studies in Hispanic and Lusophone Linguistics, 17(2), 223-249.
