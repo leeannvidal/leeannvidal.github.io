@@ -23,12 +23,11 @@ This repo hosts public files I link on my website, CV, and/or Resume.
 ## Contents of Documents folder
 ### Conferences
 #### Certificates
-Certificates from Conferences
 - **IDEOLING 2024 - Proof of presentation**
 #### Posters
 - **LSA 2023 - Poster**
 #### Programs
-Programs from conferences I've presented at. Presentation is highlighted on the program. (Not all are here, as I thought to save these as proof later in my career)
+Programs from some conferences I've presented at. `Presentation is highlighted on the program.`
 - **IDEOLING**
 - **NWAV 52**
 - **LSA 2024**
@@ -41,12 +40,10 @@ Programs from conferences I've presented at. Presentation is highlighted on the 
 ### Portfolio
 - **Spanish SV/VS Survey Instrument (2021→2023)**  
   Project Breakdown + full survey instrument. Spanish = actual materials; English = reference translation.  
-  **View:** `Portfolio/Vidal-Covas_Quantitative_Research_Spanish_Word_Order.pdf`  
   **Publication:** https://doi.org/10.3765/plsa.v8i1.5542
 
 - **Coding Manual — Liquids (Dissertation)**  
   Step-by-step guidelines for annotating Spanish liquid consonants (/ɾ/, /r/, /l/) in interviews. Includes operational definitions, decision rules, edge-case examples, and QA checks. Originally developed for Lee-Ann Vidal-Covas’s dissertation within BU’s Spanish in Boston Project.
-  **View:** `Portfolio/Vidal_Covas_Liquids_Coding_Manual.pdf`
 
 ### Publications
 These are some of my publications that are either hidden behind a paywall or whose DOI links are broken for some reason.
